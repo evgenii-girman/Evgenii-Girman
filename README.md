@@ -1,4 +1,4 @@
-# Evgenii-Girman
+# Evgenii Girman
 
 ### Hi there 👋
 
@@ -12,5 +12,5 @@
 - 📫 How to reach me: girman.evg@gmail.com
 
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="kyriakos-michael-74535b4a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/egirman">Evgenii Girman</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="kyriakos-michael-74535b4a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/egirman">linkedin: Evgenii Girman</a></div>
               
