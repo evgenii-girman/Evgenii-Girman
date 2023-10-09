@@ -12,7 +12,7 @@
 I am a Full Stack Developer / Team Leader.
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications. Position "Team Leader / Senior Developer / Full-stack"
-- 🌱 I’m currently learning Golang & React & Nextjs!
+- 🌱 I’m currently improving my qualifications Golang & React & Nextjs!
 - 👯 I'm looking for collaboration on interesting projects, I prefer stack: backend (C#, Python, Golang, PHP), frontend (VueJs, React)
 - 🤔 I’m looking for help with open source UI Libraries
 - :seedling: Exploring Technical Content Writing.
