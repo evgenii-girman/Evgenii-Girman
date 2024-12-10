@@ -9,16 +9,34 @@
 ----
 ### :man_technologist: About Me :
 
-I am a Full Stack Developer / Team Leader.
+I am a Team Lead / Sr. Software Developer / Full Stack Software Developer
+
+I am an accomplished software engineer with a two-decade achievement record and over twelve years of leadership experience. My career has allowed me to hone a wealth of skills, and my professional focal points include full-stack development, web & mobile development, data structures, databases, APIs, OOP, clean architecture, cloud technologies, system design, testing & QA, CI/CD, Containerization, DevOps, training, and cross-functional leadership. Delivering superior execution on the latter requires excellent communication, organizational, and problem-solving skills, exceptional technical acumen, and a nuanced understanding of Agile methodologies and SDLC concepts.
+
+Over the years, I have demonstrated a unique ability to design, develop, test, deploy, and maintain innovative software, web applications, systems, and products that have delighted users and delivered impressive business benefits. Moreover, I have been recognized as an inspiring mentor and leader, and I have a record of building and coaching high-performing teams.
+
+Technical Skills:
+
+• Programming: JavaScript, TypeScript, C#, Python, Golang
+• Frameworks & Libraries: Node.js, React, Vue.js, Laravel, .NET, ASP.NET (MVC, Mono), PHP, Rest API, jQuery, Bootstrap
+• Database: MongoDB, MySQL, SQL Server, PostgreSQL, NoSQL
+• DevOps & Cloud: AWS, GCP, Docker, Gitlab CI/CD, Apache/NginxDev
+• Tools: Git, Jira, Postman
+
+I am always open to connecting with other industry leaders and can be reached through this profile, via email or telephone:
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications. Position "Team Leader / Senior Developer / Full-stack"
-- 🌱 I’m currently improving my qualifications Golang & React & Nextjs!
-- 👯 I'm looking for collaboration on interesting projects, I prefer stack: backend (C#, Python, Golang, PHP), frontend (VueJs, React)
+- 🌱 I’m currently improving my qualifications Golang & Nextjs!
+- 👯 I'm looking for collaboration on interesting projects, I prefer stack: backend (Javascript, Typescript, C#, Python, Golang, PHP), frontend (VueJs, React)
 - 🤔 I’m looking for help with open source UI Libraries
 - :seedling: Exploring Technical Content Writing.
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-egirman-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/egirman)
 - 💬 Ask me about anything!
+
+<div>
+  <img src="https://github.com/evgenii-girman/Evgenii-Girman/blob/main/Linkedin-QRCode.png" title="Linkedin" alt="Linkedin" width="286" height="286" />
+</div>
 
 ---
 
@@ -45,11 +63,16 @@ I am a Full Stack Developer / Team Leader.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+---
+
+Full Stack Software Development | Application Development | Clean Architecture | Testing & QA | Microservices | Cloud Technologies | Agile Methodologies | Leadership
+
+
 ----
 ### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=evgenii-girman&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Evgenii-Girman&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ----
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evgenii-girman&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evgenii-Girman&layout=compact&theme=vision-friendly-dark)
