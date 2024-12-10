@@ -48,8 +48,8 @@ I am a Full Stack Developer / Team Leader.
 ----
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Evgenii-Girman&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=evgenii-girman&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ----
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evgenii-Girman&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evgenii-girman&layout=compact&theme=vision-friendly-dark)
