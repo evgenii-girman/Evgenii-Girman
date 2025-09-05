@@ -17,7 +17,7 @@ Over the years, I have demonstrated a unique ability to design, develop, test, d
 
 Technical Skills:
 
-• Programming: JavaScript, TypeScript, C#, Python, Golang
+• Programming: Golang, JavaScript, TypeScript, C#, Python
 • Frameworks & Libraries: Node.js, React, Vue.js, Laravel, .NET, ASP.NET (MVC, Mono), PHP, Rest API, jQuery, Bootstrap
 • Database: MongoDB, MySQL, SQL Server, PostgreSQL, NoSQL
 • DevOps & Cloud: AWS, GCP, Docker, Gitlab CI/CD, Apache/NginxDev
@@ -26,7 +26,6 @@ Technical Skills:
 I am always open to connecting with other industry leaders and can be reached through this profile, via email or telephone:
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications. Position "Team Leader / Senior Developer / Full-stack"
-- 🌱 I’m currently improving my qualifications Golang & Nextjs!
 - 👯 I'm looking for collaboration on interesting projects, I prefer stack: backend (Golang, Javascript, Typescript, C#, Python, PHP), frontend (VueJs, React)
 - 🤔 I’m looking for help with open source UI Libraries
 - :seedling: Exploring Technical Content Writing.
