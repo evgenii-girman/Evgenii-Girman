@@ -27,7 +27,7 @@ I am always open to connecting with other industry leaders and can be reached th
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications. Position "Team Leader / Senior Developer / Full-stack"
 - 🌱 I’m currently improving my qualifications Golang & Nextjs!
-- 👯 I'm looking for collaboration on interesting projects, I prefer stack: backend (Javascript, Typescript, C#, Python, Golang, PHP), frontend (VueJs, React)
+- 👯 I'm looking for collaboration on interesting projects, I prefer stack: backend (Golang, Javascript, Typescript, C#, Python, PHP), frontend (VueJs, React)
 - 🤔 I’m looking for help with open source UI Libraries
 - :seedling: Exploring Technical Content Writing.
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
